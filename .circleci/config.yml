@@ -24,5 +24,4 @@ workflows:
   # Name the workflow
   myWorkflow:
     jobs:
-      - build
       - create_infrastructure
